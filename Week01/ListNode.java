@@ -1,5 +1,3 @@
-package lesson03;
-
 /**
  * @CLASSNAME:
  * @AUTHOR: fenghongyu
